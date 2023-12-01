@@ -5,7 +5,7 @@ import Button from "@mui/material/Button"
 
 function App() {
   return (
-    <Box sx={{boarderWidth: 1}}>
+    <Box sx={{borderWidth: 1}}>
       Hej
       <Button variant="contained">Hello World</Button>
     </Box>
